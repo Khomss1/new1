@@ -1,0 +1,1 @@
+@extends("layouts.app") @section("content") <h1 style="color:red; background:yellow; padding:20px;">TES TINKER BERHASIL. Jika muncul teks ini, berarti file verifikasi.blade.php sudah benar. Tapi kenapa muncul error @forelse? Itu mustahil kecuali Layoutnya error.</h1> @endsection
